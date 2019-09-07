@@ -1,2 +1,3 @@
 # hello-world
-study
+Hi!
+Work and study hard!
